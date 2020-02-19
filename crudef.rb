@@ -13,7 +13,7 @@ while true
     puts "2- Atualizar"
     puts "3- Exibir"
     puts "4- Excluir"
-    puts "0- Sair"
+    
 
         print "Escolha uma opcao:"
 
@@ -39,7 +39,9 @@ while true
         when "4"
             age.excluir  
 
-            
+        
+         
+        
                 
             
         else
